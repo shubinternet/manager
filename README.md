@@ -114,22 +114,28 @@ My job *is not*:
 - delegation
 - keeping work at work
 
-### Typical Hours
+### Typical Hours and Work/Life Balance
 
-- If I contact you by IM or email after hours, I do not expect a response, and I will probably tell you when I'd prefer one.  Please don't respond immediately.
-- If I contact you by text message, which I will rarely do, I *may* hope for a response, but I will let you know if I do.  In general I should let you know well in advance if I expect you to be on call in any way.
-- That said, you can reach out to me any time, and I will try to respond when I notice it, or I'll set a reminder to do so.
+The company we work for may have other ideas, but absent those I would expect you to work roughly 9am to 5pm in your local time zone, but as long as you're getting your work done -- including meetings you need to attend and availability for the people you work with -- and you can let me know about your needs in advance I'm willing to be very flexible.  I will try very hard to keep you not working more than forty hours a week.  If you're sick, please don't work; remind me of this when I try to work while sick.  Take vacation.
+
+If I contact you by any means after hours, I do not expect a response, and I will probably tell you in my message when I'd prefer one.  Please don't respond immediately unless I clearly indicate that I'd like you to (and even then I will probably not expect you to).  In general I should let you know well in advance if I expect you to be on call in any way.  That said, you can reach out to me any time, and I will try to respond when I notice it, or I'll set a reminder to do so; if you do contact me after hours, please do so by IM or e-mail.
 
 ### Preferred Communication Channel(s)
 
+Speaking of, my preferred communication media, in order:
+
+- Slack/IM
+- E-mail
+- Voice chat
+- Video chat
+
+It's not that I won't like talking with you, it's that I am usually multiplexing, and it's hard to take the time to focus on a single thread, and in my experience in a distributed company people are bad at noticing one is busy and waiting to engage.  If we're being honest I'm also sometimes a little avoidant of the degree of focus that a voice or video conversation brings with it.  Asynchronous communication is something I'm usually very comfortable with, though for 1:1 conversations I prefer Slack or voice -- those are typically the only meetings that I ignore everything else for.
 
 ### Growing People
 
 this job is likely just one stop along your path
 
-### Work/Life Balance
 
-The company we work for may have other ideas, but absent those I would expect you to work roughly 9am to 5pm in your local time zone, but as long as you're getting your work done -- including meetings you need to attend and availability for the people you work with -- and you can let me know about your needs in advance I'm willing to be very flexible.  I will try very hard to keep you not working more than forty hours a week.  If you're sick, please don't work; remind me of this when I try to work while sick.  Take vacation.
 
 ### Goals and Accountability
 
@@ -144,7 +150,8 @@ The company we work for may have other ideas, but absent those I would expect yo
 - unless there are a lot of you, we'll start with half an hour weekly, and adjust to what works; not always needed, but nice to have the time set aside.
 - conversations about goals (qv) and performance reviews will probably be longer.
 - I may have things I want to discuss, but you own the agenda for these conversations.  they can be, but these are not required to be status meetings.  Slack/IM is better for status anyway.
-- I'm probably in a lot of meetings but you will have dibs to any time not already booked, and can probably pre-empt my time if it is already booked.
+- Also I will try to not wait for a 1:1 for important feedback.  1:1s are for catching up and nurturing our relationship.
+- I'm probably in a lot of meetings but you will have dibs to any time not already booked, and can probably pre-empt my time if it is already booked.  My calendar is *usually* current.
 - You can always reach out over IM.
 
 #### Goals
