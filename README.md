@@ -5,34 +5,42 @@
 
 ## Disclaimer
 
-This document refers to *me* and how *I* comport myself, and not to any specific employer, though I and my team will do best in an environment where I can behave as described below.
+This document refers to *me* and how *I* comport *myself*, and not to any specific employer, though I and my team will do best in an environment where I can behave as described below.
 
 ## Purpose
 
+This document is intended to give you an idea for how I prefer to work and lead my teams, and is intended for my employees, prospective employees, and prospective employers.  It is intended to be a living document, and if you've worked with or for me I encourage your feedback.
 
 ## TL;DR
 
+**TODO**
 
 ## About Me as a Human
 
+Who I am at work and who I am at home overlap a lot.  While I like to keep my work and home lives separate, understanding some about who I am as a person is important to understanding who I am as a manager.
+
 ### What Do I Value?
 
-- awareness of privilege, especially mine
-- acceptance does not require approval
-- mental and physical health are important
-- down time
-- family
-- being on time
+- Awareness of privilege, especially mine.
+- Mental and physical health.  Taking time for both is very important, for oneself and the people one cares about.
+- Family.  Mine is very important to me.
+- I work to live, not live to work.
+- Being on time.
+- Communication and collaboration.  I'm stubborn and will hold my line a lot of the time, but I believe in finding answers together.
+- Humor.  The world is a pretty awful place if you let it be, it doesn't need the help.
 
 ### My Life
 
+I am married and have one and a half children -- it's complicated -- and two dogs and a cat, and we live in a hundred year old house in Tacoma, WA.  I love my dirty town and I have trouble thinking of living anywhere else, but I was born in Chicago and grew up in central California, and those both left their marks.  I read science fiction and fantasy and sometimes weird fiction.  I play video games sometimes.  Option paralysis and trouble putting work down mean I don't tinker on the house as much as I would like.
+
 ### My Personality
 
-Things that tend to be mostly good:
+Things about me that tend to be mostly good:
 
+- I like to try to see all sides, though I tend to be pretty confident in mine.
+- I believe that accepting something doesn't mean approving of it.
 
-
-Things that tend to be mostly problematic:
+Things about me that tend to be mostly problematic:
 
 - If I'm not careful, I will overthink things and dig myself into a perfectionist hole.
 - I can let myself get spread too thin.
@@ -116,16 +124,16 @@ My job *is not*:
 
 ### Typical Hours and Work/Life Balance
 
-The company we work for may have other ideas, but absent those I would expect you to work roughly 9am to 5pm in your local time zone, but as long as you're getting your work done -- including meetings you need to attend and availability for the people you work with -- and you can let me know about your needs in advance I'm willing to be very flexible.  I will try very hard to keep you not working more than forty hours a week.  If you're sick, please don't work; remind me of this when I try to work while sick.  Take vacation.
+The company we work for may have other ideas, but absent those I would expect you to work roughly 9am to 5pm in your local time zone, but as long as you're getting your work done -- including meetings you need to attend and availability for the people you work with -- and you can let me know about your needs and hous in advance I'm willing to be very flexible.  I will try very hard to keep you not working more than forty hours a week.  If you're sick, please don't work; remind me of this when I try to work while sick.  Take vacation.
 
-If I contact you by any means after hours, I do not expect a response, and I will probably tell you in my message when I'd prefer one.  Please don't respond immediately unless I clearly indicate that I'd like you to (and even then I will probably not expect you to).  In general I should let you know well in advance if I expect you to be on call in any way.  That said, you can reach out to me any time, and I will try to respond when I notice it, or I'll set a reminder to do so; if you do contact me after hours, please do so by IM or e-mail.
+If I contact you by any means after hours, I do not expect a prompt response, and I will probably tell you in my message when I'd prefer one.  Please don't respond immediately unless I clearly indicate that I'd like you to (and even then I will probably not expect you to).  In general I should let you know well in advance if I expect you to be on call in any way.  That said, you can reach out to me any time, and I will try to respond when I notice it, or I'll set a reminder to respond when I have more time; if you do contact me after hours, please do so by IM or e-mail.
 
 ### Preferred Communication Channel(s)
 
 Speaking of, my preferred communication media, in order:
 
-- Slack/IM
-- E-mail
+- Slack/IM, especially for questions or urgent needs
+- E-mail, especially for anything not rgent or which requires multiple people
 - Voice chat
 - Video chat
 
@@ -148,7 +156,7 @@ this job is likely just one stop along your path
 #### 1:1s
 
 - unless there are a lot of you, we'll start with half an hour weekly, and adjust to what works; not always needed, but nice to have the time set aside.
-- conversations about goals (qv) and performance reviews will probably be longer.
+- conversations about goals (qv) and performance reviews will probably be longer.  I used to try to shoehorn them into 1:1s but that doesn't really work very well, so I'll probably schedule those separately.
 - I may have things I want to discuss, but you own the agenda for these conversations.  they can be, but these are not required to be status meetings.  Slack/IM is better for status anyway.
 - Also I will try to not wait for a 1:1 for important feedback.  1:1s are for catching up and nurturing our relationship.
 - I'm probably in a lot of meetings but you will have dibs to any time not already booked, and can probably pre-empt my time if it is already booked.  My calendar is *usually* current.
@@ -159,6 +167,8 @@ this job is likely just one stop along your path
 #### Feedback
 
 ### If You Are My Team...
+
+- shared weekly status document on a wiki or something
 
 #### Meetings
 
