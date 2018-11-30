@@ -22,7 +22,7 @@ Who I am at work and who I am at home overlap a lot.  While I like to keep my wo
 ### What Do I Value?
 
 - Awareness of privilege, especially mine.
-- Mental and physical health.  Taking time for both is very important, for oneself and the people one cares about.
+- Mental and physical health.  Taking time for both is very important, for oneself and the people one cares about.  I take anxiety medication and am trying to fit exercise into my schedule, but I tend to get overextended at work and that makes finding the time difficult.
 - Family.  Mine is very important to me.
 - I work to live, not live to work.
 - Being on time.
@@ -31,7 +31,7 @@ Who I am at work and who I am at home overlap a lot.  While I like to keep my wo
 
 ### My Life
 
-I am married and have one and a half children -- it's complicated -- and two dogs and a cat, and we live in a hundred year old house in Tacoma, WA.  I love my dirty town and I have trouble thinking of living anywhere else, but I was born in Chicago and grew up in central California, and those both left their marks.  I read science fiction and fantasy and sometimes weird fiction.  I play video games sometimes.  Option paralysis and trouble putting work down mean I don't tinker on the house as much as I would like.
+I am married and have one and a half children -- it's complicated -- and two dogs and a cat, and we live in a hundred year old house in Tacoma, WA.  I love my dirty town and I have trouble thinking of living anywhere else, but I was born in Chicago and grew up in central California, and those both left their marks.  I read science fiction and fantasy and sometimes weird fiction.  I play video games sometimes.  Option paralysis and trouble putting work down mean I don't tinker on the house as much as I would like.  I started back at school to get my bachelor's degree at the end of 2018 through Western Governors University -- they're pretty great so far.
 
 ### My Personality
 
@@ -39,24 +39,27 @@ Things about me that tend to be mostly good:
 
 - I like to try to see all sides, though I tend to be pretty confident in mine.
 - I believe that accepting something doesn't mean approving of it.
+- I care deeply and personally about my employees.
 
 Things about me that tend to be mostly problematic:
 
 - If I'm not careful, I will overthink things and dig myself into a perfectionist hole.
 - I can let myself get spread too thin.
-- when I'm tired I can be *extremely* distractable.
+- When I'm tired I can be *extremely* distractable.
+- Interacting with people wears me out.  I wish it didn't.
+- I don't have a way of tracking to-do items that I really like, and I've tried a number of them.  Now and then things can fall through the cracks despite my best efforts.  If you think this has happened don't hesitate to ask me about it -- not only will you not upset me, I'll kind of expect you to keep me honest.
 
 ### Pet Peeves
 
-- not learning from mistakes
-- not having the will to apply what we learn from mistakes
-- not having a plan, or ten plans
-- making a habit of crisis
-
+- Not learning from mistakes.
+- Not having the will to apply what we learn from mistakes.
+- Making a habit of crisis.
+- Not having a plan.  Or ten plans.
 
 ### What Boxes Do I Fit Into?
 
-- In the DISC Plus test, I score very high on S (Stability) and very, very high on C (Cautious), and pretty low on D (Decisive) and I (Interactive).  My Aesthetic and Theoretical values are very high, my Economic and Individualistic values are very low, and the rest are middling.  This implies that I'm deliberate, agreeable, matter-of-fact, a bit reserved, loyal, patient, cautious, and process-oriented.  This is largely accurate. 
+- In the DISC Plus test, I score very high on S (Stability) and very, very high on C (Cautious), and pretty low on D (Decisive) and I (Interactive).  My Aesthetic and Theoretical values are very high, my Economic and Individualistic values are very low, and the rest are middling.  This implies that I'm deliberate, agreeable, matter-of-fact, a bit reserved, loyal, patient, cautious, and process-oriented.  This is largely accurate.
+- I fall between the cracks a bit on the Myers-Briggs Type Indicator, but these days I fall somewhere between INTJ and ISTJ.
 
 ## What to Expect of Me as a Manager
 
@@ -76,24 +79,23 @@ Every single one of those points is about people.  It should be.
 
 My job *is not*:
 
-- Telling you how to do things, unless you ask.
+- Telling you how to do things, unless you ask or I think you're headed really off track and it's not worth the learning experience.
 - Pushing you to meet a corporate bottom line; if we did it right, that should fall out of the points above.
 - Making anyone's job harder unless the alternative is to make it harder-er.
 
-
 ### What Do I Value?
 
-- people
+- people, especially my team
 - diversity
 - collaboration
-- growth
+- personal growth
 - leaving the tech ecosystem better than I found it
 - honesty
 - trust, including telling me when too much is asked of you
 - kindness
 - efficiency
-- 'good' being good enough
-- 'good enough' never being good enough
+- 'good' being good enough (you can't just do one thing forever until it's perfect)
+- 'good enough' never being good enough (always reflect on the process and look for ways to improve it and make it more relevant)
 - metrics, except when I don't
 - being on time (it's okay if you're not if you let me know)
 
@@ -103,24 +105,23 @@ My job *is not*:
 - meetings that could be e-mails
 - e-mails that could IM conversations
 
-### How Did I Get into Management?
-
-
 ### Work Style
 
-- favor autonomy in team members; I prefer to be pretty hands-off, ask me ASAP if you need more
-- strong grip on a loose rein; steer with the knees
-- I trust you to know more than I do about the work
-- default to transparency, unless I legally can't; I cannot be asked to lie to you
-- I may not answer you, but I won't lie to you
-- I try to remove obstacles, not create them
-- you *are* my job, I am (almost) always here for you first
-- I like process that builds good habits and stays out of the way, I will tinker with process to make it more efficient, and I will encourage you to do so, too
+- I prefer to be pretty hands-off as a manager, but ready to step in when needed; there's an expression I like, 'keep a tight grip on a loose rein'.  I'll let my team have as much autonomy as I feel they can handle.  Sometimes that's less, often that's more.  If you feel my aim is off, let's talk about it.
+- I hire for my weaknesses.  If I hire you, it's because I think you are or can be better than me at something.  It's a strategy that's worked extremely well for me when building amazing teams.
+- I trust you to know more than I do about the work you're doing, but do please keep me in the loop.
+- I will default to transparency and openness, unless I legally can't or the matter is personal.  I will try very hard to never lie to you.  This may require exceptional circumlocution, or I may just not answer you, but I will try.
+- I will try very hard to not give my word unless I am sure at the time I can keep it.  Circumstances can change and (like I said up there) I get overwhelmed, though, so I'll count on you to keep me honest if you think I've let something slide.
+- I try to remove obstacles, not create them.  I will also exploit the heck out of opportunities to advance our goals and/or make you look good.
+- If you work for me, *you* are my job, above all else.  I am always here for you first, though folks above my pay grade may interfere with that sometimes.
+- I like process that builds good habits and stays out of the way, I will tinker with process to make it more efficient, and I will encourage you to do so, too.
+- I am always open to your ideas.  Like I said, I hire people who are better than me at something.
 
 ### Things I Am Not Good At
 
 - delegation
 - keeping work at work
+- ending 1:1s at the scheduled time
 
 ### Typical Hours and Work/Life Balance
 
