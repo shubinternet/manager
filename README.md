@@ -11,10 +11,6 @@ This document refers to *me* and how *I* comport *myself*, and not to any specif
 
 This document is intended to give you an idea for how I prefer to work and lead my teams, and is intended for my employees, prospective employees, and prospective employers.  It is intended to be a living document, and if you've worked with or for me I encourage your feedback.
 
-## TL;DR
-
-**TODO**
-
 ## About Me as a Human
 
 Who I am at work and who I am at home overlap a lot.  While I like to keep my work and home lives separate, understanding some about who I am as a person is important to understanding who I am as a manager.
