@@ -50,7 +50,8 @@ Things about me that tend to be mostly problematic:
 - Not learning from mistakes.
 - Not having the will to apply what we learn from mistakes.
 - Making a habit of crisis.
-- Not having a plan.  Or ten plans.
+- Not having a plan.  And a backup plan.  And a backup plan for that plan.
+- Letting technical debt fester.
 
 ### What Boxes Do I Fit Into?
 
@@ -85,7 +86,7 @@ My job *is not*:
 - diversity
 - collaboration
 - personal growth
-- leaving the tech ecosystem better than I found it
+- leaving the tech ecosystem better than I found it by cleaning up messes and growing people
 - honesty
 - trust, including telling me when too much is asked of you
 - kindness
@@ -93,7 +94,7 @@ My job *is not*:
 - 'good' being good enough (you can't just do one thing forever until it's perfect)
 - 'good enough' never being good enough (always reflect on the process and look for ways to improve it and make it more relevant)
 - metrics, except when I don't
-- being on time (it's okay if you're not if you let me know)
+- being on time (though it's okay if you're not, if you let me know as far as advance as you can)
 
 ### What Don't I Value?
 
@@ -121,7 +122,7 @@ My job *is not*:
 
 ### Typical Hours and Work/Life Balance
 
-The company we work for may have other ideas, but absent those I would expect you to work roughly 9am to 5pm in your local time zone, but as long as you're getting your work done -- including meetings you need to attend and availability for the people you work with -- and you can let me know about your needs and hous in advance I'm willing to be very flexible.  I will try very hard to keep you not working more than forty hours a week.  If you're sick, please don't work; remind me of this when I try to work while sick.  Take vacation.
+The company we work for may have other ideas, but absent those I would expect you to work roughly 9am to 5pm in your local time zone, but as long as you're getting your work done -- including meetings you need to attend and availability for the people you work with -- and you can let me know about your needs and hours in advance I'm willing to be very flexible and I'm not going to count your hours.  Though I will try very hard to keep you not working more than forty hours a week.  If you're sick, please don't work; remind me of this when I try to work while sick.  Take vacation.
 
 If I contact you by any means after hours, I do not expect a prompt response, and I will probably tell you in my message when I'd prefer one.  Please don't respond immediately unless I clearly indicate that I'd like you to (and even then I will probably not expect you to).  In general I should let you know well in advance if I expect you to be on call in any way.  That said, you can reach out to me any time, and I will try to respond when I notice it, or I'll set a reminder to respond when I have more time; if you do contact me after hours, please do so by IM or e-mail.
 
@@ -134,7 +135,7 @@ Speaking of, my preferred communication media, in order:
 - Voice chat
 - Video chat
 
-It's not that I won't like talking with you, it's that I am usually multiplexing; it's hard to take the time to focus on a single thread and, in my experience, in a distributed company people are bad at noticing one is busy and waiting to engage.  If we're being honest, I'm also sometimes a little avoidant of the degree of focus that a voice or video conversation brings with it.  Asynchronous communication is something I'm usually very comfortable with, though for 1:1 conversations I prefer Slack or voice -- those are typically the only meetings that I ignore everything else for.
+It's not that I won't like talking with you, it's that I am usually multiplexing; it's hard to take the time to focus on a single thread and, in my experience, in a distributed company people are bad at noticing one is busy and at waiting to engage.  If we're being honest, I'm also sometimes a little avoidant of the degree of focus that a voice or video conversation brings with it.  Asynchronous communication is something I'm usually very comfortable with, though for 1:1 conversations I prefer Slack or voice -- those are typically the only meetings that I ignore everything else for.
 
 ### Growing People
 
@@ -142,7 +143,7 @@ I believe that your career growth should be an important topic for both of us an
 
 ### Goals and Accountability
 
-I don't like environments that handle goal setting once per year and penalize you for how much factors outside either of our control can render those goals irrelevant through the rest of that year.  I prefer to sit down about once per quarter to review and reset goals, and typically touch on them about once per month.  Goals for me aren't set in stone -- sometimes the goalposts move.  I will push you to set goals that challenge you/us, but I will also work with you to craft goals that benefit both the company and your career progression.  I will hold you accountable firmly but kindly for making progress on your goals or helping me understand why and how your goals need to evolve to reflect changed circumstances.
+I don't like environments that handle goal setting once per year and penalize you for how much factors outside either of our control can render those goals irrelevant through the rest of that year.  I prefer to sit down about once per quarter to review and reset goals, and typically touch on them about once per month.  Goals for me aren't set in stone -- sometimes the goalposts move.  I will push you to set goals that challenge you/us, and I will also work with you to craft goals that benefit both the company and your career progression.  I will hold you accountable firmly but kindly for making progress on your goals or helping me understand why and how your goals need to evolve to reflect changed circumstances.
 
 I will also probably ask for your help doing the same for me.  I have a lot to learn, too, and I'll need your feedback.
 
@@ -155,9 +156,9 @@ I like to spend the first hour or so of my day catching up; first in IM, which t
 - Unless there are a lot of you, we'll start with half an hour weekly, and adjust to what works. A weekly 1:1 tends to work best for me, even though some weeks we won't need the time because we've stayed up to date over IM or elsewhere, but it's nice to have the time set aside.
 - Conversations about goals (qv) and performance reviews will probably be longer.  I used to try to shoehorn them into 1:1s but that doesn't really work very well, so I'll probably schedule those separately.
 - I may have things I want to discuss at 1:1s, but you own the agenda for these conversations.  They can be, but are not required to be, status meetings.  Slack/IM is better for quick status anyway, and you'll be giving me your weekly status elsewhere.
-- Also I will try to not wait for a 1:1 for important feedback.  1:1s are for catching up and nurturing our relationship.
+- Also I will try to not wait for a 1:1 for important feedback.  I hope you won't, either.  1:1s are for catching up and nurturing our relationship.
 - I'm probably in a lot of meetings but you will have dibs to any time not already booked, and can probably pre-empt my time if it is already booked.  My calendar is *usually* current.  Always default to asking me if you need my time, I will see what I can do.
-- You can always reach out over IM.
+- You can always reach out over IM.  Like, always.
 
 ### Status and Team Meetings
 
