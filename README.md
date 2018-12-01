@@ -1,7 +1,7 @@
 # Manager README
 
 - **Written by:** Joshua Bihun ([my LinkedIn](https://linkedin.com/in/joshuabihun))
-- **Last updated:** 2018 November 28
+- **Last updated:** 2018 November 30
 
 ## Disclaimer
 
@@ -142,43 +142,38 @@ It's not that I won't like talking with you, it's that I am usually multiplexing
 
 ### Growing People
 
-this job is likely just one stop along your path
-
-
+I believe that your career growth should be an important topic for both of us, and I'll check in with you regularly about it, especially if you don't.  As much as I might wish it otherwise, I understand that my team is likely to be just one stop, however long, on your career, and I intend to do what I can to prepare you for the next one, whether or not that's on my team.  I've had very, very few employees leave for other companies, and I've had a few move on, with my help, to different roles within the same company; with very few exceptions, I consider each of those to be a victory (even if, for me, a bittersweet one).
 
 ### Goals and Accountability
 
+I don't like environments that handle goal setting once a year and penalize you for how much circumstances can render those goals irrelevant through the rest of that year.  I prefer to sit down about once a quarter to review and reset goals, and typically touch on them about once a month.  Goals for me aren't set in stone -- sometimes the goalposts move.  I will push you to set goals that challenge you (or both of us), but I will also work with you to craft goals that benefit both the company and your career progression.  I will hold you accountable firmly but kindly for making progress on your goals or helping me understand why and how your goals need to evolve to reflect changed circumstances.
+
+I will also probably ask for your help doing the same to me.  I have a lot to learn, too, and I'll need your feedback.
 
 ### How I Usually Spend My Work Day
 
+I like to spend the first hour or so of my day catching up, first in IM, which tends to have a high criticality, and then e-mail.  I will pick off very critical things to do immediately if they're quick to do, and otherwise will add things to my todo list.  I'll then review the previous day's todo list to make sure it's up to date and prioritize my tasks for the day, then work through those, adjusting as necessary.  Given my typical meeting load, items will tend to carry over day to day, so I'll need your help reminding me about anything you're waiting on me for.  I'm going to be busy but don't let me block you.
 
-### If You Are My Employee...
+### 1:1s
 
-#### 1:1s
-
-- unless there are a lot of you, we'll start with half an hour weekly, and adjust to what works; not always needed, but nice to have the time set aside.
-- conversations about goals (qv) and performance reviews will probably be longer.  I used to try to shoehorn them into 1:1s but that doesn't really work very well, so I'll probably schedule those separately.
-- I may have things I want to discuss, but you own the agenda for these conversations.  they can be, but these are not required to be status meetings.  Slack/IM is better for status anyway.
+- Unless there are a lot of you, we'll start with half an hour weekly, and adjust to what works. A weekly 1:1 tends to work best for me, even though some weeks we won't need the time because we've stayed up to date over IM or elsewhere, but it's nice to have the time set aside.
+- Conversations about goals (qv) and performance reviews will probably be longer.  I used to try to shoehorn them into 1:1s but that doesn't really work very well, so I'll probably schedule those separately.
+- I may have things I want to discuss at 1:1s, but you own the agenda for these conversations.  They can be, but are not required to be, status meetings.  Slack/IM is better for quick status anyway, and you'll be giving me your weekly status elsewhere.
 - Also I will try to not wait for a 1:1 for important feedback.  1:1s are for catching up and nurturing our relationship.
-- I'm probably in a lot of meetings but you will have dibs to any time not already booked, and can probably pre-empt my time if it is already booked.  My calendar is *usually* current.
+- I'm probably in a lot of meetings but you will have dibs to any time not already booked, and can probably pre-empt my time if it is already booked.  My calendar is *usually* current.  Always default to asking me if you need my time, I will see what I can do.
 - You can always reach out over IM.
 
-#### Goals
+### Status and Team Meetings
 
-#### Feedback
-
-### If You Are My Team...
-
-- shared weekly status document on a wiki or something
-
-#### Meetings
-
-#### Goals
+- I like weekly-ish team meetings, but would be delighted to not need them because of an active team Slack channel.
+- I like a more permanent record of weekly status and I believe in transparency, so I'll probably set up a weekly status document on an internal wiki or something.  If I owe status upwards, I'll collate and summarize those statuses.
+- Either way, I prefer status in a searchable format -- voice or video conversations are nice for catching up, but they're hard to search when I need to look something up to answer a question.
 
 ### If You Are My Boss...
 
-#### 1:1s
-
+I generally prefer to be handled like I prefer to handle my employees, but if some aspect of that doesn't work for you, we can work it out.
 
 ## Feedback about This README
+
+As I said above, this is a living document, and I welcome your feedback.  You're welcome to comment, drop me an e-mail if you have it, or submit a pull request with your edits.
 
