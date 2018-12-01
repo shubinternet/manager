@@ -42,7 +42,7 @@ Things about me that tend to be mostly problematic:
 - If I'm not careful, I will overthink things and dig myself into a perfectionist hole.
 - I can let myself get spread too thin.
 - When I'm tired I can be *extremely* distractable.
-- Interacting with people wears me out.  I wish it didn't.
+- Believe it or not, I'm an introvert.  Balancing that can be a challenge.
 - I don't have a way of tracking to-do items that I really like, and I've tried a number of them.  Now and then things can fall through the cracks despite my best efforts.  If you think this has happened don't hesitate to ask me about it -- not only will you not upset me, I'll kind of expect you to keep me honest.
 
 ### Pet Peeves
@@ -130,25 +130,25 @@ If I contact you by any means after hours, I do not expect a prompt response, an
 Speaking of, my preferred communication media, in order:
 
 - Slack/IM, especially for questions or urgent needs
-- E-mail, especially for anything not rgent or which requires multiple people
+- E-mail, especially for anything not urgent or which requires multiple people
 - Voice chat
 - Video chat
 
-It's not that I won't like talking with you, it's that I am usually multiplexing, and it's hard to take the time to focus on a single thread, and in my experience in a distributed company people are bad at noticing one is busy and waiting to engage.  If we're being honest I'm also sometimes a little avoidant of the degree of focus that a voice or video conversation brings with it.  Asynchronous communication is something I'm usually very comfortable with, though for 1:1 conversations I prefer Slack or voice -- those are typically the only meetings that I ignore everything else for.
+It's not that I won't like talking with you, it's that I am usually multiplexing; it's hard to take the time to focus on a single thread and, in my experience, in a distributed company people are bad at noticing one is busy and waiting to engage.  If we're being honest, I'm also sometimes a little avoidant of the degree of focus that a voice or video conversation brings with it.  Asynchronous communication is something I'm usually very comfortable with, though for 1:1 conversations I prefer Slack or voice -- those are typically the only meetings that I ignore everything else for.
 
 ### Growing People
 
-I believe that your career growth should be an important topic for both of us, and I'll check in with you regularly about it, especially if you don't.  As much as I might wish it otherwise, I understand that my team is likely to be just one stop, however long, on your career, and I intend to do what I can to prepare you for the next one, whether or not that's on my team.  I've had very, very few employees leave for other companies, and I've had a few move on, with my help, to different roles within the same company; with very few exceptions, I consider each of those to be a victory (even if, for me, a bittersweet one).
+I believe that your career growth should be an important topic for both of us and I'll check in with you regularly about it, especially if you don't.  As much as I might wish it otherwise I understand that my team is likely to be just one stop on your career.  I intend to do what I can to prepare you for the next stop, whether or not that's on my team.  I've had very, very few employees leave for other companies, and I've had a few move on, with my help, to different roles within the same company; with very few exceptions, I consider each of those to be a victory.
 
 ### Goals and Accountability
 
-I don't like environments that handle goal setting once a year and penalize you for how much circumstances can render those goals irrelevant through the rest of that year.  I prefer to sit down about once a quarter to review and reset goals, and typically touch on them about once a month.  Goals for me aren't set in stone -- sometimes the goalposts move.  I will push you to set goals that challenge you (or both of us), but I will also work with you to craft goals that benefit both the company and your career progression.  I will hold you accountable firmly but kindly for making progress on your goals or helping me understand why and how your goals need to evolve to reflect changed circumstances.
+I don't like environments that handle goal setting once per year and penalize you for how much factors outside either of our control can render those goals irrelevant through the rest of that year.  I prefer to sit down about once per quarter to review and reset goals, and typically touch on them about once per month.  Goals for me aren't set in stone -- sometimes the goalposts move.  I will push you to set goals that challenge you/us, but I will also work with you to craft goals that benefit both the company and your career progression.  I will hold you accountable firmly but kindly for making progress on your goals or helping me understand why and how your goals need to evolve to reflect changed circumstances.
 
-I will also probably ask for your help doing the same to me.  I have a lot to learn, too, and I'll need your feedback.
+I will also probably ask for your help doing the same for me.  I have a lot to learn, too, and I'll need your feedback.
 
 ### How I Usually Spend My Work Day
 
-I like to spend the first hour or so of my day catching up, first in IM, which tends to have a high criticality, and then e-mail.  I will pick off very critical things to do immediately if they're quick to do, and otherwise will add things to my todo list.  I'll then review the previous day's todo list to make sure it's up to date and prioritize my tasks for the day, then work through those, adjusting as necessary.  Given my typical meeting load, items will tend to carry over day to day, so I'll need your help reminding me about anything you're waiting on me for.  I'm going to be busy but don't let me block you.
+I like to spend the first hour or so of my day catching up; first in IM, which tends to have a high criticality, and then e-mail.  I will pick off very critical things to do immediately if they're quick to do, and otherwise will add things to my to-do list.  I'll then review the previous day's to-do list to make sure it's up to date and prioritize my tasks for the day, then work through those, adjusting as necessary.  Given my typical meeting load, items will tend to carry over day to day, so I'll need your help reminding me about anything you're waiting on me for.  I'm going to be busy but don't let me block you.
 
 ### 1:1s
 
